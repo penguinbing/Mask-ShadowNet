@@ -1,5 +1,5 @@
 # Mask-ShadowNet: Toward Shadow Removal via Masked Adaptive Instance Normalization
-This is the Pytorch implementation of "**Mask-ShadowNet: Toward Shadow Removal via Masked Adaptive Instance Normalization**", ready to be published soon.  
+This is the Pytorch implementation of ["**Mask-ShadowNet: Toward Shadow Removal via Masked Adaptive Instance Normalization**"](https://ieeexplore.ieee.org/document/9408351).
 
 > Note: The resolution of test shadow image should be 256*256 for our pre-trained model.  
 
